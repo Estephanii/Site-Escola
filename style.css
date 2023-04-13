@@ -30,7 +30,7 @@ color: white;
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#383d58,#208da5);
+    background-image: linear-gradient(#9e2e12,#000000);
     color: white;
     display: flex;
     justify-content: center;
@@ -42,4 +42,7 @@ color: white;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
 }
