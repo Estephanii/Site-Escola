@@ -64,5 +64,14 @@ body{
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 120% 20%;
+    grid-template-columns: 10% 20% 100% 20%;
+}
+footer{
+    background-color: #410707;
+    padding: 10px 0;
+    text-align: center;
+}
+.rodape-imagem{
+    width: 90px;
+    height: 30px;
 }
